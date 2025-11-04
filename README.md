@@ -1,8 +1,8 @@
 <img width="1584" height="396" alt="Banner para Linkedin Personal Minimalista Neutral (2)" src="https://github.com/user-attachments/assets/35490c27-02ba-421b-9476-58dd8dce7927" />
- Hola, Soy Karen.  !Mucho gusto!👋
+ ## Hola, Soy Karen.  !Mucho gusto!👋
 
 
-
+<!--
 **anakarengzr/anakarengzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
