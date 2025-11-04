@@ -1,10 +1,10 @@
-![banner](https://https://www.canva.com/design/DAG3rHzyYtk/crZh6_gXlkoVo3b3dIo1tA/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0.png)
+![banner](<!--<img width="1584" height="396" alt="Banner para Linkedin Personal Minimalista Neutral (1)" src="https://github.com/user-attachments/assets/a4d5acde-8ced-4b8e-9bad-740182cb2f89" />)
 
 ## Hola, Soy Karen.  !Mucho gusto!👋
 
-<!--
+
+
 **anakarengzr/anakarengzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="1584" height="396" alt="Banner para Linkedin Personal Minimalista Neutral (1)" src="https://github.com/user-attachments/assets/31658fc8-3247-4130-8754-e92ebad6846e" />
 
 Here are some ideas to get you started:
 
