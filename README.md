@@ -1,4 +1,4 @@
-![banner](https://https://www.canva.com/design/DAG3rHzyYtk/crZh6_gXlkoVo3b3dIo1tA/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0)
+![banner](https://https://www.canva.com/design/DAG3rHzyYtk/crZh6_gXlkoVo3b3dIo1tA/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0.png)
 
 ## Hola, Soy Karen.  !Mucho gusto!👋
 
