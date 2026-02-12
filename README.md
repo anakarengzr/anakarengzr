@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> 👩🏻‍💻 About me </h3>
 
 QA Engineer with hands-on experience in manual, API, and UI automation testing. I focus on designing structured test cases, validating business requirements, and documenting defects clearly to ensure software quality and reliability.
 
