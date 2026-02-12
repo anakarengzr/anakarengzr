@@ -66,10 +66,11 @@ End-to-end UI automation using Selenium WebDriver and Page Object Model to valid
 
 
 <p>
+ 
 </p>
 
 ### 📫🤝🏻 Contact
 
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/karengz-rojas) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/karengz-rojas) 👨🏻‍💻
  - Enviame un email a  [Email](mailto:karen.gzrojas@gmail.com) 💌
